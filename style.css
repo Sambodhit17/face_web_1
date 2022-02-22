@@ -1,0 +1,9 @@
+body {
+    background-color: aqua;
+}
+
+#camera {
+    border: 2px black;
+    width: 350px;
+    height: 300px;
+}
